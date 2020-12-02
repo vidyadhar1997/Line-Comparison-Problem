@@ -13,14 +13,18 @@ namespace LineComparisonProblems
             y1 = Convert.ToInt32(Console.ReadLine());
             y2 = Convert.ToInt32(Console.ReadLine());
             int length1=toFindLength(x1, y1, x2, y2);
+            Console.WriteLine(length1);
 
             x1 = Convert.ToInt32(Console.ReadLine());
             x2 = Convert.ToInt32(Console.ReadLine());
             y1 = Convert.ToInt32(Console.ReadLine());
             y2 = Convert.ToInt32(Console.ReadLine());
             int length2 = toFindLength(x1, y1, x2, y2);
+            Console.WriteLine(length2);
 
             Console.WriteLine(length1.Equals(length2));
+
+            Console.WriteLine("Return value (comparison) ="+length1.CompareTo(length2));
 
         }
 
