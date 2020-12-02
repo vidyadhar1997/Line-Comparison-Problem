@@ -1,0 +1,13 @@
+D:\bridgeLabzFellowship\LineComparisonProblems\LineComparisonProblems\bin\Debug\netcoreapp3.1\LineComparisonProblems.exe
+D:\bridgeLabzFellowship\LineComparisonProblems\LineComparisonProblems\bin\Debug\netcoreapp3.1\LineComparisonProblems.deps.json
+D:\bridgeLabzFellowship\LineComparisonProblems\LineComparisonProblems\bin\Debug\netcoreapp3.1\LineComparisonProblems.runtimeconfig.json
+D:\bridgeLabzFellowship\LineComparisonProblems\LineComparisonProblems\bin\Debug\netcoreapp3.1\LineComparisonProblems.runtimeconfig.dev.json
+D:\bridgeLabzFellowship\LineComparisonProblems\LineComparisonProblems\bin\Debug\netcoreapp3.1\LineComparisonProblems.dll
+D:\bridgeLabzFellowship\LineComparisonProblems\LineComparisonProblems\bin\Debug\netcoreapp3.1\LineComparisonProblems.pdb
+D:\bridgeLabzFellowship\LineComparisonProblems\LineComparisonProblems\obj\Debug\netcoreapp3.1\LineComparisonProblems.csprojAssemblyReference.cache
+D:\bridgeLabzFellowship\LineComparisonProblems\LineComparisonProblems\obj\Debug\netcoreapp3.1\LineComparisonProblems.AssemblyInfoInputs.cache
+D:\bridgeLabzFellowship\LineComparisonProblems\LineComparisonProblems\obj\Debug\netcoreapp3.1\LineComparisonProblems.AssemblyInfo.cs
+D:\bridgeLabzFellowship\LineComparisonProblems\LineComparisonProblems\obj\Debug\netcoreapp3.1\LineComparisonProblems.csproj.CoreCompileInputs.cache
+D:\bridgeLabzFellowship\LineComparisonProblems\LineComparisonProblems\obj\Debug\netcoreapp3.1\LineComparisonProblems.dll
+D:\bridgeLabzFellowship\LineComparisonProblems\LineComparisonProblems\obj\Debug\netcoreapp3.1\LineComparisonProblems.pdb
+D:\bridgeLabzFellowship\LineComparisonProblems\LineComparisonProblems\obj\Debug\netcoreapp3.1\LineComparisonProblems.genruntimeconfig.cache

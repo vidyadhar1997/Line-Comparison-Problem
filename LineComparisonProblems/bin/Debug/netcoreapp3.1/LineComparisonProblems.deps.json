@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LineComparisonProblems/1.0.0": {
+        "runtime": {
+          "LineComparisonProblems.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LineComparisonProblems/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
