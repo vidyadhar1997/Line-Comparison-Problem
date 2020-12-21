@@ -1,5 +1,4 @@
 ﻿using System;
-
 namespace LineComparisonProblems
 {
     class Program
@@ -8,14 +7,15 @@ namespace LineComparisonProblems
         {
             Program program = new Program();
             Console.WriteLine("if get 0:(both are equal),if get 1:(length 1 is grater than length2)," +
-            "if get -1:(length 1 is lesser than length2) :: "+program.computeMethode());
+            "if get -1:(length 1 is lesser than length2) :: " + " We get = " + program.computeMethode());
         }
+
         public int computeMethode()
         {
             int length1 = 0, length2 = 0;
             for (int i = 1; i <= 2; i++)
             {
-                Console.WriteLine("input for two lines= " + i);
+                Console.WriteLine("input for two lines = " + i);
                 Console.WriteLine("Enter the value of (x1)");
                 int x1 = Convert.ToInt32(Console.ReadLine());
                 Console.WriteLine("Enter the value of (x2)");
